@@ -9,3 +9,5 @@ https://paper.dropbox.com/doc/React-FT2-Modul-1.1-ZHK5vUZPxmTUCsafm7O5E
 npx create-react-app my-app
 cd my-app
 npm start
+
+React + ReactDOM
